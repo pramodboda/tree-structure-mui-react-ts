@@ -19,7 +19,7 @@ function App() {
       <Container>
         <CssBaseline />
         <Typography variant="h5" sx={{ my: 2 }}>
-          📁 MUI TreeView – Flat to Tree
+          📁 MUI TreeView – Flat to Tree Examples
         </Typography>
         <Typography variant="body2" component="p">
           Implemented <strong>Flat array</strong> converted into tree structure
