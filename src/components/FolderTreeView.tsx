@@ -2,8 +2,6 @@
 import React from 'react';
 import { SimpleTreeView, TreeItem } from '@mui/x-tree-view';
 import { Box } from '@mui/material';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import FolderIcon from '@mui/icons-material/Folder';
 import InsertDriveFileIcon from '@mui/icons-material/InsertDriveFile';
 
